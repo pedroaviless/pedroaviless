@@ -75,7 +75,7 @@ Actualmente realizando mi **FCT en Constella Intelligence** (Granada), empresa e
 
 [![LinkedIn](https://img.shields.io/badge/Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/pedro-avil%C3%A9s-90186b260/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](al.pedro.aviles.aguilera@iesportada.org)
-[![GitHub FCT](https://img.shields.io/badge/GitHub_FCT_(Constella)-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
 
 </div>
 
