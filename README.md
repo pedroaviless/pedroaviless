@@ -16,7 +16,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES
 Actualmente realizando mi **FCT en Constella Intelligence** (Granada), empresa especializada en ciberseguridad e inteligencia digital, donde trabajo en proyectos de tooling interno.
 
 - 🎓 Graduación prevista: **Junio 2026**
-- 🌍 Ubicación: **Loja / Málaga, España**
+- 🌍 Ubicación: **Loja / Granada, España**
 - 🚀 Siempre aprendiendo algo nuevo
 
 ---
